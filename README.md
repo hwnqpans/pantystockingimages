@@ -1,1 +1,1 @@
-# This web is for CSS3 course in Coursera
+# This web is for HTML/CSS3/JavaScript course in Coursera
